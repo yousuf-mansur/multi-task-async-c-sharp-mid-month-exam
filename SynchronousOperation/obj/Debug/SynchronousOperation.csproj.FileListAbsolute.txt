@@ -1,0 +1,14 @@
+D:\Monsur\C#\22-02-24\MultiTaskAsyncsln\SynchronousOperation\bin\Debug\SynchronousOperation.exe.config
+D:\Monsur\C#\22-02-24\MultiTaskAsyncsln\SynchronousOperation\bin\Debug\SynchronousOperation.exe
+D:\Monsur\C#\22-02-24\MultiTaskAsyncsln\SynchronousOperation\bin\Debug\SynchronousOperation.pdb
+D:\Monsur\C#\22-02-24\MultiTaskAsyncsln\SynchronousOperation\obj\Debug\SynchronousOperation.csproj.AssemblyReference.cache
+D:\Monsur\C#\22-02-24\MultiTaskAsyncsln\SynchronousOperation\obj\Debug\SynchronousOperation.csproj.CoreCompileInputs.cache
+D:\Monsur\C#\22-02-24\MultiTaskAsyncsln\SynchronousOperation\obj\Debug\SynchronousOperation.exe
+D:\Monsur\C#\22-02-24\MultiTaskAsyncsln\SynchronousOperation\obj\Debug\SynchronousOperation.pdb
+D:\IsDB-BISEW\IDB Classes\Module_03\Mid Monthly March\Evidence\MultiTaskAsyncsln\SynchronousOperation\bin\Debug\SynchronousOperation.exe.config
+D:\IsDB-BISEW\IDB Classes\Module_03\Mid Monthly March\Evidence\MultiTaskAsyncsln\SynchronousOperation\bin\Debug\SynchronousOperation.exe
+D:\IsDB-BISEW\IDB Classes\Module_03\Mid Monthly March\Evidence\MultiTaskAsyncsln\SynchronousOperation\bin\Debug\SynchronousOperation.pdb
+D:\IsDB-BISEW\IDB Classes\Module_03\Mid Monthly March\Evidence\MultiTaskAsyncsln\SynchronousOperation\obj\Debug\SynchronousOperation.csproj.AssemblyReference.cache
+D:\IsDB-BISEW\IDB Classes\Module_03\Mid Monthly March\Evidence\MultiTaskAsyncsln\SynchronousOperation\obj\Debug\SynchronousOperation.csproj.CoreCompileInputs.cache
+D:\IsDB-BISEW\IDB Classes\Module_03\Mid Monthly March\Evidence\MultiTaskAsyncsln\SynchronousOperation\obj\Debug\SynchronousOperation.exe
+D:\IsDB-BISEW\IDB Classes\Module_03\Mid Monthly March\Evidence\MultiTaskAsyncsln\SynchronousOperation\obj\Debug\SynchronousOperation.pdb

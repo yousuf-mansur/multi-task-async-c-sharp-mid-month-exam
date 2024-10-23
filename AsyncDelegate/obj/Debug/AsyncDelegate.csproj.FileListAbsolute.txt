@@ -1,0 +1,14 @@
+D:\Monsur\C#\22-02-24\MultiTaskAsyncsln\AsyncDelegate\bin\Debug\AsyncDelegate.exe.config
+D:\Monsur\C#\22-02-24\MultiTaskAsyncsln\AsyncDelegate\bin\Debug\AsyncDelegate.exe
+D:\Monsur\C#\22-02-24\MultiTaskAsyncsln\AsyncDelegate\bin\Debug\AsyncDelegate.pdb
+D:\Monsur\C#\22-02-24\MultiTaskAsyncsln\AsyncDelegate\obj\Debug\AsyncDelegate.csproj.AssemblyReference.cache
+D:\Monsur\C#\22-02-24\MultiTaskAsyncsln\AsyncDelegate\obj\Debug\AsyncDelegate.csproj.CoreCompileInputs.cache
+D:\Monsur\C#\22-02-24\MultiTaskAsyncsln\AsyncDelegate\obj\Debug\AsyncDelegate.exe
+D:\Monsur\C#\22-02-24\MultiTaskAsyncsln\AsyncDelegate\obj\Debug\AsyncDelegate.pdb
+D:\IsDB-BISEW\IDB Classes\Module_03\Mid Monthly March\Evidence\MultiTaskAsyncsln\AsyncDelegate\bin\Debug\AsyncDelegate.exe.config
+D:\IsDB-BISEW\IDB Classes\Module_03\Mid Monthly March\Evidence\MultiTaskAsyncsln\AsyncDelegate\bin\Debug\AsyncDelegate.exe
+D:\IsDB-BISEW\IDB Classes\Module_03\Mid Monthly March\Evidence\MultiTaskAsyncsln\AsyncDelegate\bin\Debug\AsyncDelegate.pdb
+D:\IsDB-BISEW\IDB Classes\Module_03\Mid Monthly March\Evidence\MultiTaskAsyncsln\AsyncDelegate\obj\Debug\AsyncDelegate.csproj.AssemblyReference.cache
+D:\IsDB-BISEW\IDB Classes\Module_03\Mid Monthly March\Evidence\MultiTaskAsyncsln\AsyncDelegate\obj\Debug\AsyncDelegate.csproj.CoreCompileInputs.cache
+D:\IsDB-BISEW\IDB Classes\Module_03\Mid Monthly March\Evidence\MultiTaskAsyncsln\AsyncDelegate\obj\Debug\AsyncDelegate.exe
+D:\IsDB-BISEW\IDB Classes\Module_03\Mid Monthly March\Evidence\MultiTaskAsyncsln\AsyncDelegate\obj\Debug\AsyncDelegate.pdb

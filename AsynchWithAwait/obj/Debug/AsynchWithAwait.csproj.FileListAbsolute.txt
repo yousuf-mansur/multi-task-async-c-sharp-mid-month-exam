@@ -1,0 +1,14 @@
+D:\Monsur\C#\22-02-24\MultiTaskAsyncsln\AsynchWithAwait\bin\Debug\AsynchWithAwait.exe.config
+D:\Monsur\C#\22-02-24\MultiTaskAsyncsln\AsynchWithAwait\bin\Debug\AsynchWithAwait.exe
+D:\Monsur\C#\22-02-24\MultiTaskAsyncsln\AsynchWithAwait\bin\Debug\AsynchWithAwait.pdb
+D:\Monsur\C#\22-02-24\MultiTaskAsyncsln\AsynchWithAwait\obj\Debug\AsynchWithAwait.csproj.AssemblyReference.cache
+D:\Monsur\C#\22-02-24\MultiTaskAsyncsln\AsynchWithAwait\obj\Debug\AsynchWithAwait.csproj.CoreCompileInputs.cache
+D:\Monsur\C#\22-02-24\MultiTaskAsyncsln\AsynchWithAwait\obj\Debug\AsynchWithAwait.exe
+D:\Monsur\C#\22-02-24\MultiTaskAsyncsln\AsynchWithAwait\obj\Debug\AsynchWithAwait.pdb
+D:\IsDB-BISEW\IDB Classes\Module_03\Mid Monthly March\Evidence\MultiTaskAsyncsln\AsynchWithAwait\bin\Debug\AsynchWithAwait.exe.config
+D:\IsDB-BISEW\IDB Classes\Module_03\Mid Monthly March\Evidence\MultiTaskAsyncsln\AsynchWithAwait\bin\Debug\AsynchWithAwait.exe
+D:\IsDB-BISEW\IDB Classes\Module_03\Mid Monthly March\Evidence\MultiTaskAsyncsln\AsynchWithAwait\bin\Debug\AsynchWithAwait.pdb
+D:\IsDB-BISEW\IDB Classes\Module_03\Mid Monthly March\Evidence\MultiTaskAsyncsln\AsynchWithAwait\obj\Debug\AsynchWithAwait.csproj.AssemblyReference.cache
+D:\IsDB-BISEW\IDB Classes\Module_03\Mid Monthly March\Evidence\MultiTaskAsyncsln\AsynchWithAwait\obj\Debug\AsynchWithAwait.csproj.CoreCompileInputs.cache
+D:\IsDB-BISEW\IDB Classes\Module_03\Mid Monthly March\Evidence\MultiTaskAsyncsln\AsynchWithAwait\obj\Debug\AsynchWithAwait.exe
+D:\IsDB-BISEW\IDB Classes\Module_03\Mid Monthly March\Evidence\MultiTaskAsyncsln\AsynchWithAwait\obj\Debug\AsynchWithAwait.pdb
